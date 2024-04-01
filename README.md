@@ -14,4 +14,4 @@ And when you put all these ``Zangata``s together, they make up a ``Heshoo`` – 
 
 ## Zangatas
 
-- #1 - [Configure Docker Credential Helpers for Linux](https://github.com/hazharaziz/zayala/tree/main/devops/0001)
+- #1 - [Configure Docker Credential Helpers for Linux](https://github.com/hazharaziz/zayala/tree/main/zangatas/1)
