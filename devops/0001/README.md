@@ -1,1 +1,0 @@
-# Configure Docker Credential Helpers for Linux
