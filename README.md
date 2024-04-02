@@ -9,8 +9,8 @@ But here's where things get fun! This repo is going to be like my vineyard, wher
 And when you put all these ``Zangata``s together, they make up a ``Heshoo`` – a big collection of blog posts. So let's see how big we can grow this ``Heshoo`` together, shall we?
 
 #### In case you want to know the pronunciations:
-- ``Heshoo`` -> /hɛʃu:/
-- ``Zangata`` -> /zængætæ/
+- ``Heshoo`` -> /heʃuː/
+- ``Zangata`` -> /zænɟætæ/
 
 ## Zangatas
 
