@@ -15,3 +15,4 @@ And when you put all these ``Zangata``s together, they make up a ``Heshoo`` – 
 ## Zangatas
 
 - #1 - [Configure Docker Credential Helpers for Linux](https://github.com/hazharaziz/zayala/tree/main/zangatas/1)
+- #2 - [Configure Docker Daemon to use a Proxy](https://github.com/hazharaziz/zayala/tree/main/zangatas/2)
